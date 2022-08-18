@@ -1,4 +1,4 @@
-# Tic-tac-toe
+# Tic-Tac-Toe
 
 ### This is the Individual project 
 ### I have made tic-tac-toe game by using React, in this two player can play this game and whoever is winner, it can be shown at the right bottom 
